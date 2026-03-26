@@ -66,12 +66,6 @@ while alive:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
----
-
-## 兴趣领域
-
-`AI Agents` `LLM` `Computer Vision` `Robotics` `IoT` `Blockchain` `Quantitative Finance` `Edge Computing`
-
 <div align="center">
 
 *代码是写给机器看的，注释是写给未来的自己看的。*
