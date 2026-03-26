@@ -35,11 +35,11 @@ while alive:
 
 ## 开源贡献记录
 
-| 项目 | 修了什么 | 状态 |
-|---|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | webchat 击键延迟、/status token显示、subagent超时、tool参数别名 | ⏳ 审核中 |
-| [opencode-ai/opencode](https://github.com/opencode-ai/opencode) | coming soon... | 🔍 找中 |
-| [langgenius/dify](https://github.com/langgenius/dify) | coming soon... | 🔍 找中 |
+| 项目 | 修了什么 |
+|---|---|
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | webchat 击键延迟、/status token显示、subagent超时、tool参数别名 |
+| [opencode-ai/opencode](https://github.com/opencode-ai/opencode) | coming soon... |
+| [langgenius/dify](https://github.com/langgenius/dify) | coming soon... |
 
 ---
 
