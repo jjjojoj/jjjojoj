@@ -28,7 +28,7 @@ while alive:
 
 🔥 **重点项目**
 - **[AuraClaw](https://github.com/jjjojoj/openclaw)** — 基于 OpenClaw 的中文 AI 助理训练平台，让每个人都能快速上手 AI Agent
-- **AI 股票团队** — 24/7 自动运行的量化选股系统，A 股价值投资 + AI 预测，（亏损概率已降至人类平均水平）
+- **AI 股票团队** — 24/7 自动运行的量化选股系统，A 股价值投资 + AI 预测，（亏损概率已降至人类平均水平嘻嘻）
 - **开源贡献** — 给我日常使用的工具找 bug 并修复，顺便在 Contributors 里留个名
 
 ---
@@ -71,17 +71,6 @@ while alive:
 ## 兴趣领域
 
 `AI Agents` `LLM` `Computer Vision` `Robotics` `IoT` `Blockchain` `Quantitative Finance` `Edge Computing`
-
----
-
-## 一些数字
-
-- 🍴 Fork 了 **15+** 个感兴趣的项目（有些真的运行过）
-- 🐛 发现并修复了多个知名开源项目的 bug
-- ☕ 喝掉的咖啡数量：`undefined`（超出 int 范围）
-- 💤 睡眠时间：`Math.random() * 8` 小时
-
----
 
 <div align="center">
 
