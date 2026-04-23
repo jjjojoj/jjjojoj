@@ -1,4 +1,4 @@
-# jjjojoj
+# HI
 
 
 <div align="center">
@@ -7,4 +7,4 @@
 
 Python / TypeScript / C++ · AI · IoT · 量化交易
 
-重度 AI 使用者，月均消耗百亿 tokens
+月均消耗百亿 tokens
